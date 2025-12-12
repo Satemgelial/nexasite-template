@@ -1,0 +1,200 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>NexaSite Template Live Demo</title>
+    <style>
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            line-height: 1.6;
+            margin: 0;
+            padding: 20px;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            min-height: 100vh;
+        }
+        
+        .demo-container {
+            max-width: 1200px;
+            margin: 0 auto;
+            background: white;
+            border-radius: 20px;
+            overflow: hidden;
+            box-shadow: 0 20px 60px rgba(0,0,0,0.3);
+        }
+        
+        .demo-header {
+            background: linear-gradient(135deg, #4361ee 0%, #3a0ca3 100%);
+            color: white;
+            padding: 40px;
+            text-align: center;
+        }
+        
+        .demo-header h1 {
+            margin: 0;
+            font-size: 48px;
+        }
+        
+        .demo-header p {
+            font-size: 20px;
+            opacity: 0.9;
+            margin-top: 10px;
+        }
+        
+        .demo-content {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+            gap: 30px;
+            padding: 40px;
+        }
+        
+        .demo-card {
+            border: 1px solid #e9ecef;
+            border-radius: 10px;
+            overflow: hidden;
+            transition: transform 0.3s ease, box-shadow 0.3s ease;
+        }
+        
+        .demo-card:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 10px 30px rgba(0,0,0,0.1);
+        }
+        
+        .demo-card img {
+            width: 100%;
+            height: 200px;
+            object-fit: cover;
+        }
+        
+        .demo-card-content {
+            padding: 20px;
+        }
+        
+        .demo-card h3 {
+            margin: 0 0 10px 0;
+            color: #212529;
+        }
+        
+        .demo-card p {
+            color: #6c757d;
+            margin: 0;
+        }
+        
+        .demo-actions {
+            display: flex;
+            gap: 15px;
+            padding: 30px 40px;
+            background: #f8f9fa;
+            border-top: 1px solid #e9ecef;
+        }
+        
+        .demo-btn {
+            padding: 12px 30px;
+            border-radius: 30px;
+            text-decoration: none;
+            font-weight: 600;
+            transition: all 0.3s ease;
+        }
+        
+        .demo-btn.primary {
+            background: #4361ee;
+            color: white;
+        }
+        
+        .demo-btn.primary:hover {
+            background: #3a0ca3;
+            transform: translateY(-2px);
+            box-shadow: 0 5px 15px rgba(67, 97, 238, 0.3);
+        }
+        
+        .demo-btn.secondary {
+            background: white;
+            color: #4361ee;
+            border: 2px solid #4361ee;
+        }
+        
+        .demo-btn.secondary:hover {
+            background: #4361ee;
+            color: white;
+        }
+        
+        @media (max-width: 768px) {
+            .demo-header h1 {
+                font-size: 36px;
+            }
+            
+            .demo-actions {
+                flex-direction: column;
+            }
+            
+            .demo-btn {
+                text-align: center;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="demo-container">
+        <div class="demo-header">
+            <h1>NexaSite Template</h1>
+            <p>Modern Website Template - Live Demo</p>
+        </div>
+        
+        <div class="demo-content">
+            <div class="demo-card">
+                <img src="https://images.unsplash.com/photo-1551650975-87deedd944c3?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&q=80" alt="Homepage">
+                <div class="demo-card-content">
+                    <h3>Homepage</h3>
+                    <p>Main landing page with hero section, features, testimonials, and call-to-action</p>
+                </div>
+            </div>
+            
+            <div class="demo-card">
+                <img src="https://images.unsplash.com/photo-1542744095-fcf48d80b0fd?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&q=80" alt="About Page">
+                <div class="demo-card-content">
+                    <h3>About Page</h3>
+                    <p>Professional about page with team section, mission, and values</p>
+                </div>
+            </div>
+            
+            <div class="demo-card">
+                <img src="https://images.unsplash.com/photo-1552664730-d307ca884978?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&q=80" alt="Contact Page">
+                <div class="demo-card-content">
+                    <h3>Contact Page</h3>
+                    <p>Contact form with map integration and contact information</p>
+                </div>
+            </div>
+            
+            <div class="demo-card">
+                <img src="https://images.unsplash.com/photo-1499951360447-b19be8fe80f5?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&q=80" alt="Services Page">
+                <div class="demo-card-content">
+                    <h3>Services Page</h3>
+                    <p>Services listing with detailed descriptions and pricing options</p>
+                </div>
+            </div>
+            
+            <div class="demo-card">
+                <img src="https://images.unsplash.com/photo-1486312338219-ce68d2c6f44d?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&q=80" alt="Blog Page">
+                <div class="demo-card-content">
+                    <h3>Blog Page</h3>
+                    <p>Blog layout with posts, categories, and sidebar</p>
+                </div>
+            </div>
+            
+            <div class="demo-card">
+                <img src="https://images.unsplash.com/photo-1551288049-bebda4e38f71?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&q=80" alt="Responsive Design">
+                <div class="demo-card-content">
+                    <h3>Responsive Design</h3>
+                    <p>Fully responsive design that works on all devices</p>
+                </div>
+            </div>
+        </div>
+        
+        <div class="demo-actions">
+            <a href="index.html" class="demo-btn primary">View Live Template</a>
+            <a href="https://nexasite.com/buy" class="demo-btn secondary">Purchase Template</a>
+            <a href="README.md" class="demo-btn secondary">View Documentation</a>
+        </div>
+    </div>
+</body>
+</html>

@@ -1,0 +1,69 @@
+Version 1.0.0 (October 2023)
+
+✨ New Features
+
+· Initial template release
+· Complete homepage with all sections
+· 4 additional page templates
+· Responsive design for all devices
+· Testimonial slider with auto-play
+· Newsletter subscription form
+· Smooth scrolling navigation
+· CSS variables for easy theming
+
+🐛 Bug Fixes
+
+· Fixed mobile menu toggle
+· Fixed testimonial slider navigation
+· Improved form validation
+· Enhanced performance
+
+📚 Documentation
+
+· Complete README documentation
+· Code comments throughout
+· Customization guide
+· Browser compatibility table
+
+---
+
+⚖️ LICENSE INFORMATION
+
+Usage Rights
+
+· ✅ Single Project - Use for one website
+· ✅ Client Projects - Use for client websites
+· ✅ Personal Projects - Use for personal websites
+· ✅ Modifications - Customize as needed
+
+Restrictions
+
+· ❌ Reselling - Cannot resell the template
+· ❌ Redistribution - Cannot redistribute
+· ❌ Multiple Projects - Requires multiple licenses
+
+Extended License Available
+
+For multiple projects or resale rights, purchase the Extended License.
+
+For full license details, see LICENSE.txt
+
+---
+
+🔗 USEFUL LINKS
+
+· Live Demo: https://demo.nexasite.com
+---
+
+<div align="center">
+
+💖 THANK YOU FOR CHOOSING NEXASITE!
+
+If you find this template helpful, please consider:
+
+· ⭐ Rating it 5 stars on the marketplace
+· 🐛 Reporting bugs to help us improve
+· 💡 Suggesting features for future updates
+· 📢 Sharing with other developers
+
+Happy Coding! 🚀
