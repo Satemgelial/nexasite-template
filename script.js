@@ -194,3 +194,26 @@ document.addEventListener('DOMContentLoaded', () => {
     // Trigger once on load
     setTimeout(animateOnScroll, 100);
 });
+
+       // Theme Switcher
+document.addEventListener('DOMContentLoaded', function() {
+  const savedTheme = localStorage.getItem('theme') || 'blue';
+  document.documentElement.setAttribute('data-theme', savedTheme);
+  
+  document.querySelectorAll('.theme-option').forEach(option => {
+    if(option.getAttribute('data-theme') === savedTheme) {
+      option.classList.add('active');
+    }
+    
+    option.addEventListener('click', function() {
+      const theme = this.getAttribute('data-theme');
+      document.documentElement.setAttribute('data-theme', theme);
+      localStorage.setItem('theme', theme);
+      
+      document.querySelectorAll('.theme-option').forEach(opt => {
+        opt.classList.remove('active');
+      });
+      this.classList.add('active');
+    });
+  });
+});     
