@@ -13,7 +13,7 @@
 [![Responsive](https://img.shields.io/badge/Responsive-Yes-green?style=for-the-badge)](#)
 [![License](https://img.shields.io/badge/License-Commercial-blue?style=for-the-badge)](#)
 
-**Live Demo • [View Demo](https://demo.nexasite.com)**hi
+**Live Demo • [View Demo](https://nexasite-template.netlify.app/)**hi
 </div>
 
 ---
