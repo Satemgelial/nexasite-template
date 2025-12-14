@@ -17,7 +17,7 @@
 
 <!-- Status Badges -->
 [![Vercel Status](https://img.shields.io/badge/Vercel-Deployed-black?logo=vercel)](https://nexasite-template.vercel.app)
-[![Netlify Status](https://api.netlify.com/api/v1/badges/YOUR-BADGE-ID/deploy-status)](https://app.netlify.com/sites/YOUR-SITE-NAME/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/YOUR-BADGE-ID/deploy-status)](https://app.netlify.com/sites/https://nexasite-template.netlify.app/deploys)
 [![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-Deployed-blue?logo=github)](https://satemgelial.github.io/nexasite-template)
 [![License](https://img.shields.io/badge/License-Commercial-blue)](LICENSE.txt)
 [![GitHub stars](https://img.shields.io/github/stars/satemgelial/nexasite-template)](https://github.com/satemgelial/nexasite-template/stargazers)
