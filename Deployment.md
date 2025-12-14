@@ -407,7 +407,7 @@ A: Use the one-click buttons above.
 Having deployment issues?
 
 · Open an issue on GitHub
-· Email: support@nexasite.com
+· Email: satemgelial@gmail.com
 · Check live demo: View Demo
 
 ---
