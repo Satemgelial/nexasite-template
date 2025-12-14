@@ -102,7 +102,7 @@ Free, unlimited builds:
 5. Save and wait 2 minutes
 
 Your site will be at:
-https://YOUR-USERNAME.github.io/nexa-site-template
+https://YOUR-USERNAME.github.io/nexasite-template
 
 Or using GitHub CLI:
 
@@ -131,7 +131,7 @@ Unlimited builds & bandwidth:
 1. Sign in to Cloudflare Dashboard
 2. Go to Pages → Create a project
 3. Connect your Git provider
-4. Select repository: nexa-site-template
+4. Select repository: nexasite-template
 5. Build settings:
    · Framework preset: None
    · Build command: (leave empty)
