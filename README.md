@@ -18,9 +18,9 @@
 <!-- Status Badges -->
 [![Vercel Status](https://img.shields.io/badge/Vercel-Deployed-black?logo=vercel)](https://nexasite-template.vercel.app)
 [![Netlify Status](https://api.netlify.com/api/v1/badges/YOUR-BADGE-ID/deploy-status)](https://app.netlify.com/sites/YOUR-SITE-NAME/deploys)
-[![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-Deployed-blue?logo=github)](https://YOUR-USERNAME.github.io/nexasite-template)
+[![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-Deployed-blue?logo=github)](https://satemgelial.github.io/nexasite-template)
 [![License](https://img.shields.io/badge/License-Commercial-blue)](LICENSE.txt)
-[![GitHub stars](https://img.shields.io/github/stars/satemgelial/nexasite-template)](https://github.com/YOUR-USERNAME/nexasite-template/stargazers)
+[![GitHub stars](https://img.shields.io/github/stars/satemgelial/nexasite-template)](https://github.com/satemgelial/nexasite-template/stargazers)
 
 <!-- One-Click Badges -->
 [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/satemgelial/nexasite-template)
