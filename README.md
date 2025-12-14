@@ -23,8 +23,8 @@
 [![GitHub stars](https://img.shields.io/github/stars/YOUR-USERNAME/nexa-site-template)](https://github.com/YOUR-USERNAME/nexa-site-template/stargazers)
 
 <!-- One-Click Badges -->
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/YOUR-USERNAME/nexa-site-template)
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/YOUR-USERNAME/nexa-site-template)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/satemgelial/nexasite-template)
+[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/satemgelial/nexasite-template)
 
 </div>
 
